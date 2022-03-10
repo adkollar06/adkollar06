@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @adkollar06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-adkollar06/adkollar06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+C#        █████████     78,00 %
+Python    ████████      54,00 %
+JS        █████         40,00 %
+HTML/CSS  ████████      76,00 %
+Batch     █████████     80,00 %
+Shell     ███           20,00 %
+C++       █████████████ 99,99 %
+Java      ███           10,99 %
